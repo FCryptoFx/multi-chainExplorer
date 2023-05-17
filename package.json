@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^5.0.0",
+    "i": "^0.3.7",
+    "npm": "^9.6.6"
+  },
+  "dependencies": {
+    "purgecss": "^5.0.0"
+  }
+}
