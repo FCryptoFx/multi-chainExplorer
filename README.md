@@ -5,8 +5,18 @@ Multi-Chain Explorer is a web application that allows users to explore blocks on
 ## Features
 
 - Get information about the latest block on a blockchain network.
+![Explore blocks](https://github.com/FCryptoFx/multi-chainExplorer/blob/master/img/exploreBlocks.png)
+
+![Explore latest block](https://github.com/FCryptoFx/multi-chainExplorer/blob/master/img/exploringBlocks.png)
+
 - Retrieve detailed information about a specific block.
+![Explore specific block](https://github.com/FCryptoFx/multi-chainExplorer/blob/master/img/specificBlock.png)
+
 - Explore transactions within a block.
+![Explore transactions](https://github.com/FCryptoFx/multi-chainExplorer/blob/master/img/exploreTransactions.png)
+
+![Exploring specific transaction](https://github.com/FCryptoFx/multi-chainExplorer/blob/master/img/exploringTransactions.png)
+
 - User-friendly and responsive interface.
 
 ## Technologies Used
