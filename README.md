@@ -18,7 +18,7 @@ Multi-Chain Explorer is a web application that allows users to explore blocks on
 
 To get started with the Multi-Chain Explorer, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/multi-chain-explorer.git`
+1. Clone the repository: `git clone https://github.com/FCryptoFx/multi-chainExplorer`
 2. Open the project in your preferred code editor.
 3. In the HTML file, replace the Web3.js provider URL with your desired blockchain network.
 4. Launch the application by opening the HTML file in a web browser.
